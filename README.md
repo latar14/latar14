@@ -30,7 +30,7 @@
 
 ### 🥇 Чем я пользуюсь больше всего :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SulimanVu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latar14)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr height="1px" border='none'>
 <h3>Связь со мной:</h3>
