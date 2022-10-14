@@ -13,7 +13,7 @@
   <img align="left" width=40px src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="photoJs" />
   <img align="left" width=40px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="photoJs" />
   <img align="left" width=40px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="65" height="55"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40px"/>
 </div>
   </br>
   </br>
