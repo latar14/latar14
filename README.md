@@ -28,11 +28,6 @@
   <a href="https://github.com/latar14/Truck-Back.git">Code-Back</a> | <a href="#">Preview</a>
 
 
-### 🥇 Чем я пользуюсь больше всего :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latar14)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr height="1px" border='none'>
 <h3>Связь со мной:</h3>
 <a href="https://t.me/ashwash_" align="left">
     <img src="https://img.shields.io/badge/Telegram-0a0c10?style=for-the-badge&logo=telegram&logoColor=white" alt="tg">
