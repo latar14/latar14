@@ -1,7 +1,6 @@
-## Добро пожаловать на страницу Frontend разработчика!
+<img src="./Git banner.png" href="https://html.com/" />
 
-
-### :hammer_and_wrench: Стек технологий с которыми я работаю :
+## 💼 Skills :
 
 <div>
   <img align="left" width=40px src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" href="https://html.com/" />
@@ -18,7 +17,7 @@
   </br>
   </br>
   
-### Мои проекты:
+### 📝 My projects:
 
 - Онлайн аукцион <a href="https://github.com/latar14/final-front.git">Code-Front</a> |
   <a href= "https://github.com/latar14/team-madePC-back">Code-Back</a> | <a href="#">Preview</a>
@@ -27,8 +26,23 @@
 - Перевозка грузов <a href="https://github.com/latar14/Truck-Front.git">Code-Front</a> |
   <a href="https://github.com/latar14/Truck-Back.git">Code-Back</a> | <a href="#">Preview</a>
 
+## &#x1f4c8; GitHub Stats
 
-<h3>Связь со мной:</h3>
+<br>
+
+<a href="https://github.com/latar14">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latar14&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/latar14">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=latar14&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<br>
+<br>
+
+
+<h3>Contact with me:</h3>
 <a href="https://t.me/ashwash_" align="left">
     <img src="https://img.shields.io/badge/Telegram-0a0c10?style=for-the-badge&logo=telegram&logoColor=white" alt="tg">
 </a>
